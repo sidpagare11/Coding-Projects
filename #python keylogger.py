@@ -1,9 +1,9 @@
 #python keylogger
 
 '''
-warning! in order to run this code, 
+Warning! in order to run this code, 
 you must allow your computer's security settings to run programs with a potential virus risk,
-#as this program is essentially malware
+#as this program is essentially malware.
 
 '''
 
